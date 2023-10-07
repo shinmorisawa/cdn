@@ -9,5 +9,5 @@ a:visited {
 }
 a:link, a:visited {
   text-decoration: none;
-  cursor: auto;
+  cursor: pointer;
 }
