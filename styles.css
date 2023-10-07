@@ -1,1 +1,13 @@
+* {
+  background-color: black;
+  font-family: "Avenir Next";
+  color: white;
+}
 
+a:visited {
+  color: black !priority;
+}
+a:link, a:visited {
+  text-decoration: none;
+  cursor: auto;
+}
