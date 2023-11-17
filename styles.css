@@ -1,17 +1,25 @@
-* {
-  background-color: black;
+.text {
+  background-color: white;
   font-family: "Menlo";
-  color: white;
+  color: black;
 }
+
 a:visited {
-  color: cyan;
+  color: red;
 }
 a:link, a:visited {
   text-decoration: none;
   cursor: pointer;
 }
+h4:hover {
+  color: dark-red;
+  text-shadow: 1px 1px 3px purple;
+  transition: all cubic-bezier(.35,.84,.62,.34) 2s;
+}
 h4 {
-  color: orange;
+  color: red;
+  text-shadow: 1px 1px 1px orange;
+  transition: all cubic-bezier(.35,.84,.62,.34) 2s;
 }
 
 
