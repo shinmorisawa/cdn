@@ -1,16 +1,20 @@
+* {
+  background-color: black;
+  font-family: "Menlo";
+  color: white;
+}
 a:visited {
-  color: red;
+  color: cyan;
 }
 a:link, a:visited {
   text-decoration: none;
   cursor: pointer;
 }
-
-
-
-* {
-  background-color: black;
-  font-family: "Avenir Next";
-  color: white;
+h4 {
+  color: orange;
 }
+
+
+
+
 
